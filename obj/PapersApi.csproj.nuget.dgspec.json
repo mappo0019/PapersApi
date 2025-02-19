@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Usuario\\PapersApi\\PapersApi.csproj": {}
+    "C:\\Users\\Usuario\\PapersApi\\PapersApi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Usuario\\PapersApi\\PapersApi.csproj": {
+    "C:\\Users\\Usuario\\PapersApi\\PapersApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Usuario\\PapersApi\\PapersApi.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\PapersApi\\PapersApi.csproj",
         "projectName": "PapersApi",
-        "projectPath": "c:\\Users\\Usuario\\PapersApi\\PapersApi.csproj",
+        "projectPath": "C:\\Users\\Usuario\\PapersApi\\PapersApi.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Usuario\\PapersApi\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\PapersApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "c:\\Users\\Usuario\\PapersApi\\NuGet.Config",
+          "C:\\Users\\Usuario\\PapersApi\\NuGet.Config",
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
@@ -52,6 +52,10 @@
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[9.0.2, )"
+            },
+            "NSwag.AspNetCore": {
+              "target": "Package",
+              "version": "[14.2.0, )"
             }
           },
           "imports": [
